@@ -12,3 +12,5 @@ dependencies:
   - scikit-learn
   - pip:
       - python-dotenv
+
+# Environnement MLops - TP1
