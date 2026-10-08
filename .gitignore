@@ -1,3 +1,22 @@
+# Variables d'environnement
 .env
+
+# Environnements Python / Conda
+.conda/
+env/
+venv/
+
+# Cache Python
 __pycache__/
 *.pyc
+
+# Données
+data/
+
+# Modèles entraînés
+models/
+*.pkl
+*.h5
+
+# Configuration VS Code
+.vscode/
